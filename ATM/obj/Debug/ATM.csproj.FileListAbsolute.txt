@@ -1,0 +1,10 @@
+D:\cshrapwindows\ATM\ATM\bin\Debug\ATM.exe.config
+D:\cshrapwindows\ATM\ATM\bin\Debug\ATM.exe
+D:\cshrapwindows\ATM\ATM\bin\Debug\ATM.pdb
+D:\cshrapwindows\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+D:\cshrapwindows\ATM\ATM\obj\Debug\ATM.Form1.resources
+D:\cshrapwindows\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+D:\cshrapwindows\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+D:\cshrapwindows\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+D:\cshrapwindows\ATM\ATM\obj\Debug\ATM.exe
+D:\cshrapwindows\ATM\ATM\obj\Debug\ATM.pdb
